@@ -3,6 +3,10 @@ Este repositorio contiene el desarrollo de una tienda virtual para un negocio de
 
 El proyecto consiste en 3 vistas principales, que en conjunto le permitiran al usuario registrar, ver y buscar productos relacionados con la industria de la moda.
 
-VISTA DE REGISTRO DE PRODUCTOS:
+VISTA DE REGISTRO DE PRODUCTOS: En esta vista el usuario puede registrar un nuevo producto para la tienda de ropa, en la que los campos de Nombre, Imagen, Código, Categoría y Precio son obligatorios y tienen ciertos requisitos para ser admitidos.
 
 ![Captura de pantalla 2024-06-02 163949](https://github.com/Jujo-GC/Proyecto-final-desarrollo-web/assets/162654885/1854e09c-9bec-4fa0-8c2a-e74afa22e07e)
+
+VISTA DE INDICACIONES: En caso de que el usuario se equivoque en alguno de los campos de la vista de registro, o no diligencie algun campo obligatorio, lo dirigirá a la vista de indicaciones donde se le explicará lo que debe tener en cuenta para el registro de productos.
+
+![Captura de pantalla 2024-06-02 164538](https://github.com/Jujo-GC/Proyecto-final-desarrollo-web/assets/162654885/ce946c54-396c-4563-8873-eedb5899032f)
