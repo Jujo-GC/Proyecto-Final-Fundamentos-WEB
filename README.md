@@ -15,6 +15,6 @@ El proyecto consiste en 3 vistas principales (Vista de registro de productos, Vi
 
 ![Captura de pantalla 2024-06-02 164809](https://github.com/Jujo-GC/Proyecto-final-desarrollo-web/assets/162654885/7d27435d-64fe-42ca-9a7d-7145501255fb)
 
-**VISTA DE BUSQUEDA**: El usuario puede optar por realizar una busqueda para productos específicos, gracias al sistema de filtrado de atributos podrá encontrar facilmente los productos que le interesen. Pueden filtrarse por los atributos de Categoría, Talla, Género y Temporada.
+**VISTA DE BÚSQUEDA**: El usuario puede optar por realizar una busqueda para productos específicos, gracias al sistema de filtrado de atributos podrá encontrar facilmente los productos que le interesen. Pueden filtrarse por los atributos de Categoría, Talla, Género y Temporada.
 
 ![Captura de pantalla 2024-06-02 165119](https://github.com/Jujo-GC/Proyecto-final-desarrollo-web/assets/162654885/536d682a-fbb7-4495-a07b-7bfaa8b81958)
